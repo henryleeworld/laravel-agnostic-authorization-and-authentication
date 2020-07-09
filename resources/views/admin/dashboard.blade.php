@@ -1,0 +1,10 @@
+@extends('layouts.admin')
+@section('title')
+登入
+@stop
+@section('style')
+@stop
+@section('content')
+@endsection
+@section('scripts')
+@endsection
